@@ -4,5 +4,8 @@
 
 # Running Model 
   coming soon !
+
+# some Information
+ which model is best for me to implement the generation of text ?~
  
 
