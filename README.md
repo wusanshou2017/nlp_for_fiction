@@ -11,5 +11,3 @@
 # stonemiles
 maybe  I could  finish the repo  until 2021_02_11 , I have solved the cloud machine which have resource to train my model
 
-# 2020_12_23
-some error in program
