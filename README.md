@@ -10,4 +10,5 @@
  
 # stonemiles
 maybe  I could  finish the repo  until 2021_02_11 , I have solved the cloud machine which have resource to train my model
+the final deadline is the 2021-02-11~ 
 
